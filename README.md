@@ -9,6 +9,7 @@ I have a keen interest in [Go](https://github.com/golang/go), [NodeJS](https://n
 ## Patrons
 
 Thanks to the following patrons for their support of my work:
+
   <a href="https://github.com/features/copilot">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="80px">
   </a>
