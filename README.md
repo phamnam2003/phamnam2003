@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/phamnam2003">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=480&lines=Backend+Developer;Go+%7C+Node.js+Enthusiast;Building+Scalable+%26+High-Performance+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=480&lines=Backend+Developer;Go+%7C+Node.js+%7C+Rust+Enthusiast;Building+Scalable+%26+High-Performance+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,6 +22,7 @@
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/golang/go)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 ### 🐳 Containerization
 
