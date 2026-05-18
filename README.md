@@ -4,7 +4,7 @@ The best way to reach out to me is by email: <namphamhai7@gmail.com>
 
 I'm a [programmer](https://github.com/phamnam2003/phamnam2003) / [gamer](https://www.playstation.com/en-us/ps5/games/?smcid=pdc%3Aen-us%3Aps5-ps5-pro%3Aprimary%20nav%3Amsg-games%3Aps5) / ...
 
-I have a keen interest in [Go](https://github.com/golang/go), [Rust](https://rust-lang.org/), [Nodejs](https://nodejs.org), [Docker](https://www.docker.com/), [Kafka](https://kafka.apache.org), [RabittMQ](https://www.rabbitmq.com/), [gRPC](https://github.com/grpc/grpc-go), [WebSocket](https://github.com/gorilla/websocket), SQL ([PostgreSQL](https://www.postgresql.org), [MySQL](https://www.mysql.com), etc.), NoSQL ([MongoDB](https://github.com/mongodb/mongo-go-driver), [ScyllaDB](https://github.com/scylladb/gocqlx), etc.), MemCache ([Redis](https://github.com/redis/go-redis), [Ristretto](https://github.com/hypermodeinc/ristretto), [Chained](https://github.com/eko/gocache), etc.), Logging and Visualization([Grafana](https://grafana.com/), [Promtail](https://grafana.com/docs/loki/latest/send-data/promtail/), [Loki](https://grafana.com/docs/loki/latest/)), Traces and Metrics ([Prometheus](https://prometheus.io/docs/introduction/overview/), [Otel](https://github.com/open-telemetry/), [Jaeger](https://www.jaegertracing.io/)), OS ([CentOS](https://www.centos.org/), [Arch](https://garudalinux.org/), [Ubuntu](https://ubuntu.com/), etc.)
+I have a keen interest in [Go](https://github.com/golang/go), [Rust](https://rust-lang.org/), [Nodejs](https://nodejs.org), [Kubernetes](https://kubernetes.io/), [Docker](https://www.docker.com/), [Kafka](https://kafka.apache.org), [RabittMQ](https://www.rabbitmq.com/), [gRPC](https://github.com/grpc/grpc-go), [WebSocket](https://github.com/gorilla/websocket), SQL ([PostgreSQL](https://www.postgresql.org), [MySQL](https://www.mysql.com), etc.), NoSQL ([MongoDB](https://github.com/mongodb/mongo-go-driver), [ScyllaDB](https://github.com/scylladb/gocqlx), etc.), MemCache ([Redis](https://github.com/redis/go-redis), [Ristretto](https://github.com/hypermodeinc/ristretto), [Chained](https://github.com/eko/gocache), etc.), Logging and Visualization([Grafana](https://grafana.com/), [Promtail](https://grafana.com/docs/loki/latest/send-data/promtail/), [Loki](https://grafana.com/docs/loki/latest/)), Traces and Metrics ([Prometheus](https://prometheus.io/docs/introduction/overview/), [Otel](https://github.com/open-telemetry/), [Jaeger](https://www.jaegertracing.io/)), S3 compatible object store ([MinIO](https://www.min.io/), [SeaweedFS](https://github.com/seaweedfs/seaweedfs), [RustFS](https://github.com/rustfs/rustfs)), OS ([CentOS](https://www.centos.org/), [Arch](https://garudalinux.org/), [Ubuntu](https://ubuntu.com/), etc.)
 
 ## Patrons
 
@@ -17,9 +17,5 @@ Thanks to the following patrons for their support of my work:
 
   <a href="https://neovim.io/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Neovim-mark-flat.svg" width="65px">
-  </a>
-
-  <a href="https://chatgpt.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="80px">
   </a>
 </div>
